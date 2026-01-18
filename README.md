@@ -11,8 +11,6 @@
 - ☕ Java backend developer (4+ years)
 - 🛠 DevOps, infrastructure & security
 - 🎮 Minecraft plugin developer
-- 🚀 Building scalable systems
-
 ---
 
 ### 🔗 Links
