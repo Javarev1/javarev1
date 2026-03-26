@@ -14,3 +14,7 @@
 ### 👨‍💻 About Me
 
 Hi, I do SecOps, DevOps and Fullstack java development! Excited to have you hear ❤️
+
+<div align="center">
+  <img src="lower.svg" alt="footer line" width="100%" />
+</div
