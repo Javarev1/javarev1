@@ -7,7 +7,7 @@
 
 <p float="left">
   <div>
-    <img align="left" width="365px" alt="cat photo left side" src="https://github.com/Javarev1/javarev1/blob/main/bird.jpeg">
+    <img align="left" width="365px" alt="island photo left side" src="https://github.com/Javarev1/javarev1/blob/main/bird.jpeg">
   </div>
   </p>
   <p float="left">
