@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="bird.png" width="270" align="left">
+  <img src="bird.jpeg" width="270" align="left">
   <p float="left">
     <samp>
       i'm rev | 18 | he/him
