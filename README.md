@@ -20,7 +20,7 @@
       contact: 
       <a href="contact@revqz.me">contact@revqz.me</a><br>
       <br>
-      i do hytale
+      i do hytale, bsd & other projects
       <br>
       <a href="https://github.com/Javarev1/hyproxy">hytale <-> minecraft cross play</a><br>
       <br>
