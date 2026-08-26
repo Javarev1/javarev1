@@ -4,7 +4,7 @@
     <samp>
       i'm rev | 18 | he/him
       <br>
-      i <3 swimming (used to be a professional swimmer) & 
+      i <3 swimming (used to be a professional swimmer) & a certified nerd
       <br>
       super experienced in java, kotlin & javascript
       <br>
