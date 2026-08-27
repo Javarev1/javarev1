@@ -22,7 +22,8 @@
       <br>
       i do hytale, bsd & other projects
       <br>
-      <a href="https://github.com/Javarev1/hyproxy">hytale <-> minecraft cross play</a><br>
+      <a href="https://github.com/revqz1/hyproxy">velocity like proxy for hytale</a><br>
+      <a href="https://github.com/revqz1/npcengine">fancynpcs like npc plugin for hytale</a><br>
       <br>
     </samp>
   </p>
