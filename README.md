@@ -20,7 +20,7 @@
       contact: 
       <a href="contact@revqz.me">contact@revqz.me</a><br>
       <br>
-      i do hytale, bsd & other projects
+      i do hytale, bds & other projects
       <br>
       <a href="https://github.com/revqz1/hyproxy">velocity like proxy for hytale</a><br>
       <a href="https://github.com/revqz1/hynpcs">fancynpcs like npc plugin for hytale</a><br>
