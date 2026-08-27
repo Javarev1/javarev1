@@ -24,6 +24,7 @@
       <br>
       <a href="https://github.com/revqz1/hyproxy">velocity like proxy for hytale</a><br>
       <a href="https://github.com/revqz1/hynpcs">fancynpcs like npc plugin for hytale</a><br>
+      <a href="https://github.com/revqz1/hyguard">world guard but in hytale</a><br>
       <br>
     </samp>
   </p>
